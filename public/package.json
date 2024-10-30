@@ -1,0 +1,62 @@
+[
+  {
+    "place_id": 1,
+    "place_name": "Santorini",
+    "place_image": "https://media.istockphoto.com/id/1145450965/photo/santorini-island-greece.jpg?s=612x612&w=0&k=20&c=AY_kxRrkTjbDLhqpotxgW8CZp4ovEIM1tRdTrvXKcAM=",
+    "place_details": "Experience the stunning sunsets and white-washed buildings overlooking the Aegean Sea.",
+    "package_duration": "5 days",
+    "package_price": 1200,
+    "person_allow": 2,
+    "place_popularity": "5-Star"
+  },
+  {
+    "place_id": 2,
+    "place_name": "Maui",
+    "place_image": "https://www.prideofmaui.com/blog/wp-content/uploads/2024/09/05MolokiniCrater01-jpg.webp",
+    "place_details": "Discover the beautiful beaches, volcanic landscapes, and rich culture of Hawaii's Maui island.",
+    "package_duration": "7 days",
+    "package_price": 1500,
+    "person_allow": 2,
+    "place_popularity": "5-Star"
+  },
+  {
+    "place_id": 3,
+    "place_name": "Kyoto",
+    "place_image": "https://content.r9cdn.net/rimg/dimg/10/dd/c1632a46-city-20339-15873436110.jpg?width=1366&height=768&xhint=792&yhint=1072&crop=true",
+    "place_details": "Explore Japan's ancient city filled with temples, shrines, and cherry blossom trees.",
+    "package_duration": "4 days",
+    "package_price": 1000,
+    "person_allow": 1,
+    "place_popularity": "4-Star"
+  },
+  {
+    "place_id": 4,
+    "place_name": "Paris",
+    "place_image": "https://cdn.britannica.com/31/255531-050-B7E07090/eiffel-tower-paris-france-champ-de-mars-view.jpg",
+    "place_details": "Experience the romance and iconic landmarks of the City of Lights.",
+    "package_duration": "6 days",
+    "package_price": 1300,
+    "person_allow": 2,
+    "place_popularity": "5-Star"
+  },
+  {
+    "place_id": 5,
+    "place_name": "Cape Town",
+    "place_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DC3Ra87r86OFEiCyuppijD2QKBnTde3Oow&s",
+    "place_details": "Enjoy breathtaking landscapes, wildlife, and the vibrant culture of South Africa.",
+    "package_duration": "8 days",
+    "package_price": 1600,
+    "person_allow": 3,
+    "place_popularity": "4-Star"
+  },
+  {
+    "place_id": 6,
+    "place_name": "Dubai",
+    "place_image": "https://content.presspage.com/uploads/2431/1920_dubaiconnect.jpg?10000",
+    "place_details": "Discover luxury shopping, modern architecture, and lively nightlife in Dubai.",
+    "package_duration": "5 days",
+    "package_price": 1400,
+    "person_allow": 2,
+    "place_popularity": "5-Star"
+  }
+]
